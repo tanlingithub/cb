@@ -1,0 +1,16 @@
+{
+	"name": "kabin-console",
+	"version": "1.0.0",
+	"title": "卡宾管理后台",
+	"description": "",
+	"type": "template",
+	"platform": [
+		"PC"
+	],
+	"homePage": "/materials/24/dist84ae99ec96ee544f27865113c9355c67/index.html",
+	"category": "管理后台",
+	"screenshot": "/screenshots/84ae99ec96ee544f27865113c9355c67.png",
+	"path": "templates/KabinConsole",
+	"origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+	"hash": "591afb4450bc9566056a78326e15851b"
+}

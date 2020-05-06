@@ -1,0 +1,19 @@
+{
+  "appKey": "9nQ6GATNipnhtpa4LY0rnrUMMcW20qGS",
+  "appSecret": "tkCqE5Amgpq5J3MdJbgrWI0M4kYY2DQf",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 473,
+  "name": "test-cb",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "测试卡宾管理后台",
+  "git": {
+    "url": "https://github.com/tanlingithub/cb.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "otBSqP9TNoFggkmtYO2j/w7oQbqz3RCVy0Ht6BfUdiYePModaJV6YhkZpEkL24ggfh9URJr2eIjcalpPlyb4pw=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
